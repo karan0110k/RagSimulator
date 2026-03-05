@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Mac
+.DS_Store
+
+# Flask
+instance/
+.webassets-cache
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+temp.pdf
+temp_image.jpg
+
+# Extracted images
+extracted_images/
+
+# FAISS indexes (optional if you want to ignore)
+*.index
+*.faiss
+
+# IDE files
+.vscode/
+.idea/

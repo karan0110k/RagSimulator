@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+groq
+faiss-cpu
+sentence-transformers
+numpy
+PyMuPDF
+scikit-learn
