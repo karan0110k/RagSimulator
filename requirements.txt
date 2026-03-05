@@ -1,10 +1,9 @@
 flask
 flask-cors
+faiss-cpu
+numpy
+scikit-learn
+pymupdf
 python-dotenv
 groq
-faiss-cpu
-sentence-transformers
-numpy
-PyMuPDF
-scikit-learn
 gunicorn
